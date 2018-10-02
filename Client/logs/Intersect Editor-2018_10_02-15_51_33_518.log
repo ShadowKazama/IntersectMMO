@@ -1,0 +1,13 @@
+﻿2018-10-02 05:51:37.525 [Info] Connecting to 26.21.7.75:5400...
+2018-10-02 05:51:40.261 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-10-02 05:51:40.394 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/26.21.7.75:5400].
+2018-10-02 05:51:40.395 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-10-02 05:53:16.839 [Debug] Message: Cannot access a disposed object.
+Object name: 'FrmNpc'.
+2018-10-02 05:53:18.713 [Debug] Stack Trace:    at System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   at System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   at Intersect.Editor.Forms.Editors.EditorForm.<ApplyHooks>b__3_0(GameObjectType type) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\EditorForm.cs:line 26
+2018-10-02 05:53:18.713 [Debug] Time: 10/2/2018 5:53:18 AM
+
+--------------------------------------------------------------------------------
+

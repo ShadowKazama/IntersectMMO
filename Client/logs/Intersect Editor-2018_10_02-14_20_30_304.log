@@ -1,0 +1,30 @@
+﻿2018-10-02 04:20:39.401 [Info] Connecting to 26.21.7.75:5400...
+2018-10-02 04:20:45.145 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-10-02 04:20:45.341 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/26.21.7.75:5400].
+2018-10-02 04:20:45.342 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-10-02 04:21:51.302 [Error] Message: Collection was modified; enumeration operation may not execute.
+2018-10-02 04:21:52.266 [Error] Stack Trace:    at System.Collections.ArrayList.ArrayListEnumeratorSimple.MoveNext()
+   at System.Windows.Forms.Application.ExitInternal()
+   at System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   at System.Windows.Forms.Application.Exit()
+   at Intersect.Editor.Forms.FrmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\frmMain.cs:line 879
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.ToolStripItem.FireEventInteractive(EventArgs e, ToolStripItemEventType met)
+   at System.Windows.Forms.ToolStripItem.FireEvent(EventArgs e, ToolStripItemEventType met)
+   at System.Windows.Forms.ToolStrip.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.ToolStripDropDown.OnMouseUp(MouseEventArgs mea)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ToolStrip.WndProc(Message& m)
+   at System.Windows.Forms.ToolStripDropDown.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-10-02 04:21:52.266 [Error] Time: 10/2/2018 4:21:52 AM
+
+--------------------------------------------------------------------------------
+

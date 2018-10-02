@@ -2,7 +2,7 @@
 <!--Config.xml generated automatically by Intersect Game Engine.-->
 <Config>
   <Language>English</Language>
-  <Host>localhost</Host>
+  <Host>26.21.7.75</Host>
   <Port>5400</Port>
   <RenderCache>true</RenderCache>
   <MenuBgm />

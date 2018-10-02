@@ -1,0 +1,20 @@
+﻿2018-10-02 05:54:38.992 [Error] Message: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+2018-10-02 05:54:39.006 [Error] Stack Trace:    at Sdl.SDL_LoadBMP_RW(IntPtr src, Int32 freesrc)
+   at Microsoft.Xna.Framework.SdlGameWindow..ctor(Game game)
+   at Microsoft.Xna.Framework.SdlGamePlatform..ctor(Game game)
+   at Microsoft.Xna.Framework.Game..ctor()
+   at Intersect.Client.IntersectGame..ctor() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 31
+2018-10-02 05:54:39.006 [Error] Time: 10/2/2018 5:54:39 AM
+
+--------------------------------------------------------------------------------
+
+2018-10-02 05:55:50.434 [Error] Message: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+2018-10-02 05:55:50.436 [Error] Stack Trace:    at Sdl.SDL_LoadBMP_RW(IntPtr src, Int32 freesrc)
+   at Microsoft.Xna.Framework.SdlGameWindow..ctor(Game game)
+   at Microsoft.Xna.Framework.SdlGamePlatform..ctor(Game game)
+   at Microsoft.Xna.Framework.Game..ctor()
+   at Intersect.Client.IntersectGame..ctor() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 31
+2018-10-02 05:55:50.436 [Error] Time: 10/2/2018 5:55:50 AM
+
+--------------------------------------------------------------------------------
+

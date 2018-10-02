@@ -1,0 +1,14 @@
+﻿2018-10-02 05:13:13.940 [Info] Database backup at 2018-10-02 03-13-13 took  193ms
+2018-10-02 05:13:14.044 [Error] Message: Byte Buffer Past Limit!
+2018-10-02 05:13:14.058 [Error] Stack Trace:    at Intersect.ByteBuffer.ReadInteger(Boolean peek) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Library\Intersect Library\ByteBuffer.cs:line 191
+   at Intersect.GameObjects.Maps.MapBase.Load(Byte[] packet) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Library\Intersect Library\GameObjects\Maps\MapBase.cs:line 178
+   at Intersect.Server.Classes.Maps.MapInstance.Load(Byte[] packet, Int32 keepRevision) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Maps\MapInstance.cs:line 96
+   at Intersect.Server.Classes.Core.Database.LoadGameObject(GameObjectType type, Int32 index, Byte[] data) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\Database.cs:line 2146
+   at Intersect.Server.Classes.Core.Database.LoadGameObjects(GameObjectType gameObjectType) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\Database.cs:line 2207
+   at Intersect.Server.Classes.Core.Database.LoadAllGameObjects() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\Database.cs:line 2013
+   at Intersect.Server.Classes.Core.Database.InitDatabase() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\Database.cs:line 295
+   at Intersect.Server.Classes.ServerStart.Start(String[] args) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\ServerStart.cs:line 84
+2018-10-02 05:13:14.059 [Error] Time: 10/2/2018 5:13:14 AM
+
+--------------------------------------------------------------------------------
+

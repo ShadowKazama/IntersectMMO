@@ -6463,7 +6463,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel0>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,18,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -6541,7 +6541,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel1>
-              <Bounds>30,19,4,15</Bounds>
+              <Bounds>23,19,4,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -6619,7 +6619,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel2>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -6697,7 +6697,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel3>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -6775,7 +6775,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel4>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -6853,7 +6853,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel5>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -6931,7 +6931,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel6>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -7009,7 +7009,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel7>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -7087,7 +7087,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel8>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
@@ -7165,7 +7165,7 @@
           <TextureSourceRect>0,0,0,0</TextureSourceRect>
           <Children>
             <HotbarLabel9>
-              <Bounds>27,19,7,15</Bounds>
+              <Bounds>23,19,7,15</Bounds>
               <Padding>0,0,0,0</Padding>
               <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
               <Margin>0,0,0,0</Margin>
