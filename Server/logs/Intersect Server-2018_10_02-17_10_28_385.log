@@ -1,0 +1,9 @@
+﻿2018-10-02 07:10:28.388 [Info] Database backup at 2018-10-02 05-10-28 took  183ms
+2018-10-02 07:10:29.162 [Info] Listening on 0.0.0.0:5400.
+2018-10-02 07:14:29.172 [Info] Connection approved [45ff2b7b-eea7-4e16-8414-eedbc7327eec].
+2018-10-02 07:14:29.199 [Debug] Connection established to remote [45ff2b7b-eea7-4e16-8414-eedbc7327eec/26.21.4.182:51468].
+2018-10-02 07:14:29.200 [Info] Connected [45ff2b7b-eea7-4e16-8414-eedbc7327eec].
+2018-10-02 07:16:45.338 [Debug] StatusChanged: [NetIncomingMessage #87 11 bytes] [Disconnected]
+2018-10-02 07:16:45.339 [Debug] Connectioned terminated to remote [45ff2b7b-eea7-4e16-8414-eedbc7327eec/26.21.4.182:51468].
+2018-10-02 07:16:45.340 [Info] Disconnected [45ff2b7b-eea7-4e16-8414-eedbc7327eec].
+2018-10-02 07:16:45.342 [Debug] Client disconnected (Shadow->Shadow)
