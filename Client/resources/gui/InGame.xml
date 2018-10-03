@@ -909,7 +909,7 @@
       <Children>
         <OptionsHeader>
           <Bounds>0,0,512,393</Bounds>
-          <Padding>0,0,0,0</Padding>
+          <Padding>0,10,0,0</Padding>
           <AlignmentEdgeDistances>0,0,0,0</AlignmentEdgeDistances>
           <Margin>0,0,0,0</Margin>
           <RenderColor>255,255,255,255</RenderColor>

@@ -1,0 +1,3 @@
+﻿2018-10-03 04:01:36.001 [Info] Connecting to 26.21.7.75:5400...
+2018-10-03 04:01:53.502 [Debug] StatusChanged: [NetIncomingMessage #0 63 bytes] [Disconnected]
+2018-10-03 04:01:53.634 [Debug] Unknown client disconnected (00-00-00-00-00-00-00-00).

@@ -1,0 +1,23 @@
+﻿2018-10-03 04:47:00.414 [Info] Database backup at 2018-10-03 02-47-00 took  179ms
+2018-10-03 04:47:01.126 [Info] Listening on 0.0.0.0:5400.
+2018-10-03 04:47:13.991 [Info] Connection approved [ed4dfc26-e4e6-4dc4-96b3-a409a0c2026a].
+2018-10-03 04:47:14.031 [Debug] Connection established to remote [ed4dfc26-e4e6-4dc4-96b3-a409a0c2026a/26.21.7.75:63495].
+2018-10-03 04:47:14.032 [Info] Connected [ed4dfc26-e4e6-4dc4-96b3-a409a0c2026a].
+2018-10-03 04:47:24.983 [Debug] StatusChanged: [NetIncomingMessage #0 11 bytes] [Disconnected]
+2018-10-03 04:47:24.984 [Debug] Connectioned terminated to remote [ed4dfc26-e4e6-4dc4-96b3-a409a0c2026a/26.21.7.75:63495].
+2018-10-03 04:47:24.985 [Info] Disconnected [ed4dfc26-e4e6-4dc4-96b3-a409a0c2026a].
+2018-10-03 04:47:24.988 [Debug] Client disconnected (Admin->Admin)
+2018-10-03 04:47:30.153 [Info] Connection approved [9e35c550-035d-4652-8314-a306df2bcf29].
+2018-10-03 04:47:30.174 [Debug] Connection established to remote [9e35c550-035d-4652-8314-a306df2bcf29/26.21.7.75:63496].
+2018-10-03 04:47:30.174 [Info] Connected [9e35c550-035d-4652-8314-a306df2bcf29].
+2018-10-03 04:48:35.304 [Info] Connection approved [755d3ab9-b73e-4cc2-9a97-0dad2ae33d1a].
+2018-10-03 04:48:35.382 [Debug] Connection established to remote [755d3ab9-b73e-4cc2-9a97-0dad2ae33d1a/26.21.7.75:49357].
+2018-10-03 04:48:35.382 [Info] Connected [755d3ab9-b73e-4cc2-9a97-0dad2ae33d1a].
+2018-10-03 04:51:07.658 [Debug] StatusChanged: [NetIncomingMessage #0 11 bytes] [Disconnected]
+2018-10-03 04:51:07.659 [Debug] Connectioned terminated to remote [755d3ab9-b73e-4cc2-9a97-0dad2ae33d1a/26.21.7.75:49357].
+2018-10-03 04:51:07.659 [Info] Disconnected [755d3ab9-b73e-4cc2-9a97-0dad2ae33d1a].
+2018-10-03 04:51:07.659 [Debug] Client disconnected (Admin->Admin)
+2018-10-03 04:51:09.420 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
+2018-10-03 04:51:09.420 [Debug] Connectioned terminated to remote [9e35c550-035d-4652-8314-a306df2bcf29/26.21.7.75:63496].
+2018-10-03 04:51:09.420 [Info] Disconnected [9e35c550-035d-4652-8314-a306df2bcf29].
+2018-10-03 04:51:09.420 [Debug] Client disconnected (Admin->[editor])

@@ -1,0 +1,25 @@
+﻿2018-10-03 04:07:35.099 [Info] Connecting to 26.21.7.75:5400...
+2018-10-03 04:07:37.426 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-10-03 04:07:37.452 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/26.21.7.75:5400].
+2018-10-03 04:07:37.453 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-10-03 04:07:37.911 [Error] Message: Text.SizeToContents() - No Font!!
+
+2018-10-03 04:07:37.926 [Error] Stack Trace:    at IntersectClientExtras.Gwen.ControlInternal.Text.SizeToContents() in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 174
+   at IntersectClientExtras.Gwen.ControlInternal.Text.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 49
+   at IntersectClientExtras.Gwen.Control.Label.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 79
+   at IntersectClientExtras.Gwen.Control.Label.TryProcessXmlReader(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 303
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 137
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at Intersect_Client.Classes.UI.Gui.LoadRootUiData(Base control, String xmlname) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 139
+   at Intersect_Client.Classes.UI.Gui.InitGwen() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 102
+   at Intersect_Client.Classes.Core.GameGraphics.Render() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\Core\GameGraphics.cs:line 338
+   at Intersect.Client.IntersectGame.Draw(GameTime gameTime) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 114
+   at Microsoft.Xna.Framework.Game.DoDraw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+2018-10-03 04:07:37.926 [Error] Time: 10/3/2018 4:07:37 AM
+
+--------------------------------------------------------------------------------
+

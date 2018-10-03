@@ -18,3 +18,76 @@
 
 --------------------------------------------------------------------------------
 
+2018-10-03 04:07:22.985 [Error] Message: Text.SizeToContents() - No Font!!
+
+2018-10-03 04:07:23.006 [Error] Stack Trace:    at IntersectClientExtras.Gwen.ControlInternal.Text.SizeToContents() in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 174
+   at IntersectClientExtras.Gwen.ControlInternal.Text.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 49
+   at IntersectClientExtras.Gwen.Control.Label.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 79
+   at IntersectClientExtras.Gwen.Control.Label.TryProcessXmlReader(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 303
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 137
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at Intersect_Client.Classes.UI.Gui.LoadRootUiData(Base control, String xmlname) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 139
+   at Intersect_Client.Classes.UI.Gui.InitGwen() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 102
+   at Intersect_Client.Classes.Core.GameGraphics.Render() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\Core\GameGraphics.cs:line 338
+   at Intersect.Client.IntersectGame.Draw(GameTime gameTime) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 114
+   at Microsoft.Xna.Framework.Game.DoDraw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+2018-10-03 04:07:23.006 [Error] Time: 10/3/2018 4:07:23 AM
+
+--------------------------------------------------------------------------------
+
+2018-10-03 04:07:37.926 [Error] Message: Text.SizeToContents() - No Font!!
+
+2018-10-03 04:07:37.927 [Error] Stack Trace:    at IntersectClientExtras.Gwen.ControlInternal.Text.SizeToContents() in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 174
+   at IntersectClientExtras.Gwen.ControlInternal.Text.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 49
+   at IntersectClientExtras.Gwen.Control.Label.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 79
+   at IntersectClientExtras.Gwen.Control.Label.TryProcessXmlReader(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 303
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 137
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at Intersect_Client.Classes.UI.Gui.LoadRootUiData(Base control, String xmlname) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 139
+   at Intersect_Client.Classes.UI.Gui.InitGwen() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 102
+   at Intersect_Client.Classes.Core.GameGraphics.Render() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\Core\GameGraphics.cs:line 338
+   at Intersect.Client.IntersectGame.Draw(GameTime gameTime) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 114
+   at Microsoft.Xna.Framework.Game.DoDraw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+2018-10-03 04:07:37.927 [Error] Time: 10/3/2018 4:07:37 AM
+
+--------------------------------------------------------------------------------
+
+2018-10-03 04:08:00.580 [Error] Message: Text.SizeToContents() - No Font!!
+
+2018-10-03 04:08:00.581 [Error] Stack Trace:    at IntersectClientExtras.Gwen.ControlInternal.Text.SizeToContents() in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 174
+   at IntersectClientExtras.Gwen.ControlInternal.Text.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\ControlInternal\Text.cs:line 49
+   at IntersectClientExtras.Gwen.Control.Label.set_Font(GameFont value) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 79
+   at IntersectClientExtras.Gwen.Control.Label.TryProcessXmlReader(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Label.cs:line 303
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 137
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at IntersectClientExtras.Gwen.Control.Base.LoadUiXml(XmlReader reader) in C:\Users\JC Snider\Desktop\AGD\Intersect-Client-Extras\IntersectClientExtras\Gwen\Control\Base.cs:line 252
+   at Intersect_Client.Classes.UI.Gui.LoadRootUiData(Base control, String xmlname) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 139
+   at Intersect_Client.Classes.UI.Gui.InitGwen() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\UI\Gui.cs:line 102
+   at Intersect_Client.Classes.Core.GameGraphics.Render() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\Classes\Core\GameGraphics.cs:line 338
+   at Intersect.Client.IntersectGame.Draw(GameTime gameTime) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 114
+   at Microsoft.Xna.Framework.Game.DoDraw(GameTime gameTime)
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+2018-10-03 04:08:00.581 [Error] Time: 10/3/2018 4:08:00 AM
+
+--------------------------------------------------------------------------------
+
+2018-10-03 04:48:17.887 [Error] Message: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+2018-10-03 04:48:17.888 [Error] Stack Trace:    at Sdl.SDL_LoadBMP_RW(IntPtr src, Int32 freesrc)
+   at Microsoft.Xna.Framework.SdlGameWindow..ctor(Game game)
+   at Microsoft.Xna.Framework.SdlGamePlatform..ctor(Game game)
+   at Microsoft.Xna.Framework.Game..ctor()
+   at Intersect.Client.IntersectGame..ctor() in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Client\IntersectGame.cs:line 31
+2018-10-03 04:48:17.888 [Error] Time: 10/3/2018 4:48:17 AM
+
+--------------------------------------------------------------------------------
+

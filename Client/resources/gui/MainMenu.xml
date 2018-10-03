@@ -3997,7 +3997,7 @@
       <TextureSourceRect>0,0,0,0</TextureSourceRect>
       <Children>
         <CharacterSelectionHeader>
-          <Bounds>0,0,512,393</Bounds>
+          <Bounds>0,0,512,450</Bounds>
           <Padding>0,0,0,0</Padding>
           <Margin>0,0,0,0</Margin>
           <RenderColor>255,255,255,255</RenderColor>
@@ -4012,9 +4012,9 @@
           <HideToolTip>False</HideToolTip>
           <TextColor>200,200,200,255</TextColor>
           <TextAlign>CenterH</TextAlign>
-          <TextPadding>0,0,0,0</TextPadding>
+          <TextPadding>0,10,0,0</TextPadding>
           <AutosizeToContents>False</AutosizeToContents>
-          <Font>arial,24</Font>
+          <Font>arial,16</Font>
           <TextScale>1</TextScale>
         </CharacterSelectionHeader>
         <CharacterNameLabel>
