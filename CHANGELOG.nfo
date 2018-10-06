@@ -20,6 +20,7 @@ v0.0.2
 [+] Added Village Cow mob, Boss test (Large NPC test).
 [+] Added Town Well in the cross intersection of the path.
 [+] Added Kyrises' item pack. Not configured yet. 
+[+] Added Quest and Achievement Points. 
 [x] Fixed Slime Blob's animation. Graphic art should now be smoother.   
 
 v0.0.1c
