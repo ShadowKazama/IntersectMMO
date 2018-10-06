@@ -7,25 +7,41 @@
 
 CHANGELOG
 
+v0.0.2
+[+] Added Buildings to the map.
+    + Weapon Store building has been added. No store yet. 
+    + Armor Store building has been added. No store yet. 
+    + General Store	stall has been added. Store linked, no items yet. 
+	  + Added NPC Frankie as the general store npc. 
+	+ Village House  
+[+] Added dungeon entry up on a rock cliff in town. Shall be relocated after we expand. 
+[+] Added custom tileset which has our modifications to some tiles.  
+[+] Reconstructed Village Cow pen which was previously known as the fenced area.  
+[+] Added Village Cow mob, Boss test (Large NPC test).
+[+] Added Town Well in the cross intersection of the path.
+[+] Added Kyrises' item pack. Not configured yet. 
+[x] Fixed Slime Blob's animation. Graphic art should now be smoother.   
+
 v0.0.1c
-- Removed the two current maps and made a simple spawn map. No buildings yet. 
-- Added a fenced area in spawn for Mob testing. 
-- Fixed the Hotbar numbers in User Interface and should now display perfectly.
-- Linked Server with Radmin VPN address for development purposes.  
+
+[+] Added a fenced area in spawn for Mob testing. 
+[+] Linked Server with Radmin VPN address for development purposes.  
+[-] Removed the two current maps and made a simple spawn map. No buildings yet. 
+[x] Fixed the Hotbar numbers in User Interface and should now display perfectly.
 
 v0.0.1b
-- Added Ability Points.
-- Added Skill Points.
-- When you level up, you now gain 5 ability points. 
-- When you level up, you now gain 3 skill points. 
+[+] Added Ability Points.
+[+] Added Skill Points.
+[+] When you level up, you now gain 5 ability points. 
+[+] When you level up, you now gain 3 skill points. 
 
 v0.0.1a 
-- Map dummy test initiated and added two new maps. 
-- Map 1 consisted of grass to find the center of the map.
-- Map 2 consisted of lava rock flooring. 
-- Using the Softwood UI theme by Kyrise. 
+[+] Map dummy test initiated and added two new maps. 
+    - Map 1 consisted of grass to find the center of the map.
+    - Map 2 consisted of lava rock flooring. 
+[+] Implemented the Softwood UI theme by Kyrise. 
 
 v0.0.0 
-- Extracted Files and generated default files. 
-- Created Admin account.
+[+] Extracted Files and generated default files. 
+[+] Created Admin account.
 
