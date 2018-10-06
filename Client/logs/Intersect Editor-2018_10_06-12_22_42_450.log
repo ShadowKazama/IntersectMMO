@@ -1,0 +1,8 @@
+﻿2018-10-06 02:22:45.186 [Info] Connecting to 26.21.7.75:5400...
+2018-10-06 02:22:50.784 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-10-06 02:22:50.812 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/26.21.7.75:5400].
+2018-10-06 02:22:50.813 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-10-06 03:22:42.224 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnecting]
+2018-10-06 03:22:42.236 [Debug] StatusChanged: [NetIncomingMessage #0 10 bytes] [Disconnected]
+2018-10-06 03:22:42.237 [Debug] Connectioned terminated to remote [00000000-0000-0000-0000-000000000000/26.21.7.75:5400].
+2018-10-06 03:22:42.238 [Info] Disconnected [00000000-0000-0000-0000-000000000000].

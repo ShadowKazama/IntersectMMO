@@ -1,0 +1,24 @@
+﻿2018-10-06 09:46:34.000 [Info] Connecting to 26.21.7.75:5400...
+2018-10-06 09:46:39.234 [Info] Connection approved [00000000-0000-0000-0000-000000000000].
+2018-10-06 09:46:39.263 [Debug] Connection established to remote [00000000-0000-0000-0000-000000000000/26.21.7.75:5400].
+2018-10-06 09:46:39.263 [Info] Connected [00000000-0000-0000-0000-000000000000].
+2018-10-06 09:49:17.587 [Error] Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2018-10-06 09:49:17.629 [Error] Stack Trace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Intersect.Editor.Forms.Editors.FrmShop.btnAddSoldItem_Click(Object sender, EventArgs e) in C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Editor\Forms\Editors\frmShop.cs:line 247
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at DarkUI.Controls.DarkButton.OnMouseUp(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+2018-10-06 09:49:17.629 [Error] Time: 10/6/2018 9:49:17 AM
+
+--------------------------------------------------------------------------------
+
